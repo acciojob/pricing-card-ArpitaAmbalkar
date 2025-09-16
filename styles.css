@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+img{
+	width:80%;
+	height:40%;
+}
+.pricing-card{
+	width:60vw;
+	height:80vh;
+	border-radius:9px;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
+	background-color:#C0C0C0;
+	
+}
+p{
+	margin:3px 30px;
+	text-align:justify;
+}
+button{
+	border:none;
+	margin:20px;
+	height:40px;
+	width:120px;
+	background-color:#DE3163;
+	border-radius:9px;
+	color:white;
+}
